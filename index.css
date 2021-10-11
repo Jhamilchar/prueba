@@ -1,0 +1,10 @@
+:root {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    block-size: 300px;
+    background-color: red;
+}
